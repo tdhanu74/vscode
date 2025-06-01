@@ -10,7 +10,6 @@ const dirs = [
 	'',
 	'build',
 	'extensions',
-	'extensions/cline',
 	'extensions/configuration-editing',
 	'extensions/css-language-features',
 	'extensions/css-language-features/server',
